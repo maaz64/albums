@@ -1,6 +1,7 @@
-import React from 'react';
+// importing albu, styles
 import './Album.css'
 
+// creating the album component
 export default function Album({ album, index, deleteAlbum, setUpdateAlbum  }) {
     return (
         <>
