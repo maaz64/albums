@@ -1,4 +1,3 @@
-import './App.css';
 import AlbumList from './AlbumList/AlbumList';
 
 function App() {
